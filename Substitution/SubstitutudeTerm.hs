@@ -1,4 +1,4 @@
-module Computations where
+module SubstitutudeTerm where
 
 import Lambda
 import Data.List
